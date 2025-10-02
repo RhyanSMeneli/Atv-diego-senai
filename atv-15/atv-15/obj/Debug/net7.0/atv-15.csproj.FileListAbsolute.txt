@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\bin\Debug\net7.0\atv-15.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\bin\Debug\net7.0\atv-15.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\bin\Debug\net7.0\atv-15.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\bin\Debug\net7.0\atv-15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\bin\Debug\net7.0\atv-15.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\refint\atv-15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\atv-15.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\atv-15\atv-15\obj\Debug\net7.0\ref\atv-15.dll
