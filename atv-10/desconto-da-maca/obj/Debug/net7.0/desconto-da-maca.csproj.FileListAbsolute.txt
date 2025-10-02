@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\bin\Debug\net7.0\desconto-da-maca.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\bin\Debug\net7.0\desconto-da-maca.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\bin\Debug\net7.0\desconto-da-maca.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\bin\Debug\net7.0\desconto-da-maca.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\bin\Debug\net7.0\desconto-da-maca.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\refint\desconto-da-maca.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\desconto-da-maca.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\desconto-da-maca\desconto-da-maca\obj\Debug\net7.0\ref\desconto-da-maca.dll

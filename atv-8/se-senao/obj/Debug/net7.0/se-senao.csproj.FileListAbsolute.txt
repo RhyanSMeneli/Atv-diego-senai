@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\bin\Debug\net7.0\se-senao.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\bin\Debug\net7.0\se-senao.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\bin\Debug\net7.0\se-senao.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\bin\Debug\net7.0\se-senao.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\bin\Debug\net7.0\se-senao.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\refint\se-senao.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\se-senao.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\se-senao\se-senao\obj\Debug\net7.0\ref\se-senao.dll

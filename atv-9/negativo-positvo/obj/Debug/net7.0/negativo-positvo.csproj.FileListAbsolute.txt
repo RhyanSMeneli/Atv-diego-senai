@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\bin\Debug\net7.0\negativo-positvo.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\bin\Debug\net7.0\negativo-positvo.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\bin\Debug\net7.0\negativo-positvo.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\bin\Debug\net7.0\negativo-positvo.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\bin\Debug\net7.0\negativo-positvo.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\refint\negativo-positvo.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\negativo-positvo.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\Felipe\helloword\negativo-positvo\negativo-positvo\obj\Debug\net7.0\ref\negativo-positvo.dll
