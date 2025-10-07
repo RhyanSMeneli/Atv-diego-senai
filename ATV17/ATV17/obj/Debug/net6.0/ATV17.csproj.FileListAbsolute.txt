@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\bin\Debug\net6.0\ATV17.exe
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\bin\Debug\net6.0\ATV17.deps.json
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\bin\Debug\net6.0\ATV17.runtimeconfig.json
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\bin\Debug\net6.0\ATV17.dll
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\bin\Debug\net6.0\ATV17.pdb
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.dll
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\refint\ATV17.dll
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.pdb
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ATV17.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21104179\Desktop\Rhyan\ATV17\ATV17\obj\Debug\net6.0\ref\ATV17.dll
